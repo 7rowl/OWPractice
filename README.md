@@ -1,5 +1,5 @@
 # OW Practice
-Practice map for OverWorld part of Minecraft speedruns, mostly usable for warmup, learning ruined portal completions and such.
+Practice map for overworld part of Minecraft speedruns, mostly usable for warmup, learning ruined portal completions and such.
 ### Features
 * Buried treasure x Ruined portal locations
 * Buried treasure x Lava pool locations
