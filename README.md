@@ -7,6 +7,6 @@ Practice map for OW part of Minecraft speedruns, mostly usable for warmup, learn
 ### Credits
 Semperzzz for helping with cmd blocks and building an awesome lobby 
 
-People from GNG for testing
+People from GNG, Ravalle for testing
 ### Feedback
 7rowl#3919 on Discord
