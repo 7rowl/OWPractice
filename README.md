@@ -5,10 +5,10 @@ Practice map for OW part of Minecraft speedruns, mostly usable for warmup, learn
 * Buried treasure x Lava pool locations
 * Things to come: Crafting practice, Village, Shipwreck locations.
 ### Credits
-Semperzzz for helping with cmd blocks and building an awesome lobby 
+Semperzz for helping with cmd blocks and building an awesome lobby 
 
 People from GNG, Ravalle for testing
-###Last release
+### Last release
 [Download](https://github.com/7rowl/OWPractice/releases/download/v1.0/OW.Practice.v1.0.zip)
 ### Feedback
 7rowl#3919 on Discord
