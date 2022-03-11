@@ -6,6 +6,7 @@ Practice map for OW part of Minecraft speedruns, mostly usable for warmup, learn
 * Things to come: Crafting practice, Village, Shipwreck locations.
 ### Credits
 Semperzzz for helping with cmd blocks and building an awesome lobby 
+
 People from GNG for testing
 ### Feedback
 7rowl#3919 on Discord
